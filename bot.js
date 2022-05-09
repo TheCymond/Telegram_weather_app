@@ -1,5 +1,6 @@
 const axios = require("axios");
 const { Telegraf } = require("telegraf");
+// THIS TOKEN HAS BEEN REVOKED
 const TOKEN = "5374023067:AAEviazzWtjnal7nQDsscx03ER-inX-Tl8M";
 const bot = new Telegraf(TOKEN);
 const Url =
